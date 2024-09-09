@@ -8,6 +8,7 @@ public class Task2 {
         System.out.println("Введите n:");
         int n = sc.nextInt();
         double sum = 0;
+
         for(int i = 1; i <= n; i++){
             sum += 1 / (double)(i*i);
         }

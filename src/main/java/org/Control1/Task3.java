@@ -8,6 +8,7 @@ public class Task3 {
         int N = sc.nextInt();
         double sum = 1;
         int factorial = 1;
+
         for(int i = 1; i <= N; i++){
             factorial *= i;
             sum += 1 / (double)factorial;

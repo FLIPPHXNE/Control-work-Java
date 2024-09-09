@@ -9,6 +9,7 @@ public class Task4 {
         int N = sc.nextInt();
         int zeroCnt = 0;
         int lastDigit;
+
         while(N > 0){
             lastDigit = N % 10;
             if(lastDigit == 0) zeroCnt++;

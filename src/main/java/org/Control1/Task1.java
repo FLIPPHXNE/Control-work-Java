@@ -6,6 +6,7 @@ public class Task1 {
         Scanner sc = new Scanner(System.in);
         int sum = 0;
         int nextTerm;
+
         while(true){
             nextTerm = sc.nextInt();
             if(nextTerm == 0) break;
