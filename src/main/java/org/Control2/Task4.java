@@ -9,14 +9,11 @@ public class Task4 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите строку:");
         String rgb = sc.nextLine();
-        Pattern pattern = Pattern.compile("#^[\\dA-F]{6}$");
+        Pattern pattern = Pattern.compile("^#[\\dA-F]{6}$");
         Matcher matcher = pattern.matcher(rgb);
-        // #123456 #FFFFFF
+
         boolean valid = matcher.hasMatch();
         if(valid) System.out.println(rgb + " является шестнадцатиричным идентификатором цвета");
         else System.out.println(rgb + " НЕ является шестнадцатиричным идентификатором цвета");
-        while(matcher.find()){
-            System.out.println(matcher.group(0));
-        }
     }
 }
