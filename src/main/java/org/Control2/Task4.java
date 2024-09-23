@@ -12,7 +12,7 @@ public class Task4 {
         Pattern pattern = Pattern.compile("^#[\\dA-F]{6}$");
         Matcher matcher = pattern.matcher(rgb);
 
-        boolean valid = matcher.hasMatch();
+        boolean valid = matcher.find();
         if(valid) System.out.println(rgb + " является шестнадцатиричным идентификатором цвета");
         else System.out.println(rgb + " НЕ является шестнадцатиричным идентификатором цвета");
     }
