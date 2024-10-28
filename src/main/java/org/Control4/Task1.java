@@ -65,6 +65,7 @@ class EmpStaff extends Employee{
     }
 }
 
+
 class EmpHourly extends Employee{
     private Double salaryPerHour;
 

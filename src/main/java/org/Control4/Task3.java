@@ -1,5 +1,6 @@
 package org.Control4;
 
+
 public class Task3 {
     public static void main(String args[]){
         ArithmeticProgression ap = new ArithmeticProgression(1.0, 1.0);
