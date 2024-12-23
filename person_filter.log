@@ -1,0 +1,42 @@
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter main
+INFO: Данные из файла src/main/java/org/Control6/persons.json успешно прочитаны.
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$filterPersons$10
+INFO: Прошел фильтр: Oleg
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$filterPersons$10
+INFO: Прошел фильтр: Andrey
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$filterPersons$10
+INFO: Прошел фильтр: Dmitriy
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$filterPersons$10
+INFO: Прошел фильтр: Vyacheslav
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$filterPersons$10
+INFO: Прошел фильтр: Olga
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter main
+INFO: Отфильтрованные данные записаны в файл filtered_persons.json
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter main
+INFO: Средний возраст людей: 31.0
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$2
+INFO: Родился в високосный год: Oleg
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$4
+INFO: Возрастная группа: Пенсионеры
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$3
+INFO: Vyacheslav
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$4
+INFO: Возрастная группа: Молодежь
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$3
+INFO: Oleg
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$3
+INFO: Andrey
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$3
+INFO: Dmitriy
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$4
+INFO: Возрастная группа: Средняя
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$3
+INFO: Olga
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$4
+INFO: Возрастная группа: Дети
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$3
+INFO: Ekaterina
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter lambda$main$3
+INFO: Anton
+дек. 23, 2024 11:02:05 AM org.Control6.PersonFilter measureSortPerformance
+INFO: Время выполнения сортировки: 9 мс.

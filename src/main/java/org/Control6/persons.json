@@ -1,0 +1,31 @@
+[{
+  "name" : "Ekaterina",
+  "birthdate" : "2007-11-07",
+  "email" : "olga1975@mail.ru"
+},{
+  "name" : "Oleg",
+  "birthdate" : "2000-01-01",
+  "email" : "oleg123@mail.ru"
+},
+ {
+"name" : "Andrey",
+"birthdate" : "2001-02-03",
+"email" : "andrey456@mail.ru"
+},
+ {
+"name" : "Dmitriy",
+"birthdate" : "2002-04-06",
+"email" : "dmitriy123456@mail.ru"
+}, {
+"name" : "Vyacheslav",
+"birthdate" : "1959-12-13",
+"email" : "Vyacheslav59@mail.ru"
+}, {
+"name" : "Anton",
+"birthdate" : "2007-09-19",
+"email" : "anton456@mail.ru"
+}, {
+"name" : "Olga",
+"birthdate" : "1975-05-15",
+"email" : "olga1975@mail.ru"
+}]
